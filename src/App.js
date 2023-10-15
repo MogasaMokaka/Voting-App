@@ -7,7 +7,7 @@ function App() {
       <h1>Voting App</h1>
     </div>
   );
-  s
+  
 }
 
 export default App;
